@@ -10,7 +10,7 @@ o projeto foi feito com esquemático do circuito (Quartus II), mas planejo fazer
 
 ----------
 
-no imagem 
+no arquivo "simulacao_maquina_todos_os_casos_edit.jpg" temos a forma de onda dos casos listados abaixo:
 
 Caso I:
 Proprietário carrega os preços e as quantidades.
