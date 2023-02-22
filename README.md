@@ -6,7 +6,7 @@
 
 ----------
 
-o projeto foi feito com esquemático do circuito (Quartus II), mas planejo fazer a versão em Verilog ou VHDL em breve.
+o projeto foi feito com esquemático do circuito (Quartus II), mas planejo fazer a versão em Verilog ou VHDL.
 
 ----------
 
